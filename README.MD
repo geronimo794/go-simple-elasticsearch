@@ -1,0 +1,1 @@
+Implementation and using elastichsearch as nosql datalog
